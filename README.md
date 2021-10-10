@@ -1,16 +1,16 @@
 # Kriptografi
 
-program menggunakan bahasa Python, dan module 
-	- tkinter
-	- sympy.crypto.crypto
-	- Crypto.Util.number
-	- sympy
-	- Crypto.Util.number
-	- secretpy
-	- secretpy.cmdecorators
-	- string
-	- random
-	- enchant
+program menggunakan bahasa Python, dan module :
+- tkinter
+- sympy.crypto.crypto
+- Crypto.Util.number
+- sympy
+- Crypto.Util.number
+- secretpy
+- secretpy.cmdecorators
+- string
+- random
+- enchant
 
 Shitt Cipher				: Encrypt, Decrypt, Bruteforce
 Subtitution Cipher	: Encrypt, Decrypt, GenerateAlp
