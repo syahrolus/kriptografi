@@ -33,4 +33,5 @@ pip3 install Crypto
 # pip3 install cryptography
 pip3 install secretpy
 pip3 install pyenchant
+git clone https://github.com/syahrolus/kriptografi.git
 ```
