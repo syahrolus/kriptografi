@@ -12,13 +12,13 @@ program menggunakan bahasa Python, dan module :
 - random
 - enchant
 
-Shitt Cipher				: Encrypt, Decrypt, Bruteforce
-Subtitution Cipher	: Encrypt, Decrypt, GenerateAlp
-Affine Cipher				: Encrypt, Decrypt, Bruteforce, Filter bruteforce
-Vigenere Cipher			: Encrypt, Decrypt
-Extended Vigenere Cipher 	: Encrypt, Decrypt, Hex
-Hill Chipher				: Encrypt, Decrypt (masih buruk)
-Playfair Cipher, 		: Encrypt, Decrypt (masih buruk)
+Shitt Cipher				: Encrypt, Decrypt, Bruteforce  
+Subtitution Cipher	: Encrypt, Decrypt, GenerateAlp  
+Affine Cipher				: Encrypt, Decrypt, Bruteforce, Filter bruteforce  
+Vigenere Cipher			: Encrypt, Decrypt  
+Extended Vigenere Cipher 	: Encrypt, Decrypt, Hex  
+Hill Chipher				: Encrypt, Decrypt (masih buruk)  
+Playfair Cipher, 		: Encrypt, Decrypt (masih buruk)  
 
 ## Instalasi
 telah dicoba di linux Ubuntu/Debian
